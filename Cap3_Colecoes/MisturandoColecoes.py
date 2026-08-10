@@ -13,4 +13,4 @@ print(alunos[1])
 print(alunos[0]['Cidade'])
 
 #slicing -> mostrar dados da pessoa 2 para frente
-print(alunos[1:])
+print(alunos[1:]C)
