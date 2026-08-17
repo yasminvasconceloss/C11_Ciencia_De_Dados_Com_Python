@@ -9,6 +9,6 @@ print(dataset[0,:])
 print(dataset[1:, 1])
 
 #Removendo resultados repetidos
-print(np.unique(dataset[1:, 1]))
+print(np.unique(dataset[1:, 1], return_counts=True))
 
 
