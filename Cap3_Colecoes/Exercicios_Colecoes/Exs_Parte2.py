@@ -1,6 +1,5 @@
 #4. Faça um programa que leia o nome e peso de 3 pessoas e no final mostre o
 # nome da pessoa mais pesada e a mais leve;
-from tabnanny import process_tokens
 
 nomes = [] #criando listas para guardar nomes e pesos
 pesos = []
